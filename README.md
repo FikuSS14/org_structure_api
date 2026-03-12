@@ -34,6 +34,7 @@ org_structure_api/
 
 ### Клонировать репозиторий
 git clone https://github.com/FikuSS14/org_structure_api.git
+
 cd org_structure_api
 
 ### Запустить через Docker
